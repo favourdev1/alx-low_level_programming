@@ -1,4 +1,3 @@
-}
 #include <stdlib.h>
 #include <time.h>
 /* more headers goes there */
@@ -16,3 +15,4 @@ printf("%d is a positive number \n",n);
 else
 	printf("%d is a negative number \n",n);
 return (0);
+}
